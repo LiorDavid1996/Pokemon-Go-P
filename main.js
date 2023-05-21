@@ -13,6 +13,7 @@ function loadPhase1Pages(page, e) {
       break;
     case "about":
       loadAboutPage();
+      
       break;
   }
 }
