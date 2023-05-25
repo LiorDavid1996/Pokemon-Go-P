@@ -3,7 +3,7 @@
 <h1>Pokemon-Go-P</h1>
 <p>Pokemon-Go-P is a web application inspired by the popular mobile game "Pokemon Go." It allows users to catch virtual Pokemon creatures by exploring the real world and interacting with the app.</p>
 
-<img src="images/example.png" alt="Example Image">
+<img src="images/CaptureScreenshot.png" alt="Example Image">
 
 <h4>Features<h4/>
 <b>Catch Pokemon:</b>  Use the app to locate and catch Pokemon creatures in your vicinity.
