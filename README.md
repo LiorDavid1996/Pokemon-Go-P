@@ -5,7 +5,7 @@
 
 <img src="images/CaptureScreenshot.png" alt="Example Image" style="width: 300px; height: 250px;">
 
-<h4>Features<h4/>
+<h2>Features</h2>
 <b>Catch Pokemon:</b>  Use the app to locate and catch Pokemon creatures in your vicinity.
   
 <b>Real-time Map:</b> Explore a real-time map that shows nearby Pokemon and other points of interest.
@@ -18,3 +18,5 @@
   
  <img src="images/battle-screenShot.png" alt="Example Image" style="width: 300px; height: 250px;">
   
+  <h2>Technologies Used</h2>
+  <h5>  HTML , css </h5>
